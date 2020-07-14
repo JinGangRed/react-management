@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.6c7b2a2c.chunk.js",
-    "main.js.map": "/static/js/main.6c7b2a2c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d294a1d6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d294a1d6.js.map",
-    "static/js/2.b032ad7d.chunk.js": "/static/js/2.b032ad7d.chunk.js",
-    "static/js/2.b032ad7d.chunk.js.map": "/static/js/2.b032ad7d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d4a3736ab395353fbc8eedbbcf53a955.js": "/precache-manifest.d4a3736ab395353fbc8eedbbcf53a955.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b032ad7d.chunk.js.LICENSE.txt": "/static/js/2.b032ad7d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-management/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-management/static/js/main.083118af.chunk.js",
+    "main.js.map": "/react-management/static/js/main.083118af.chunk.js.map",
+    "runtime-main.js": "/react-management/static/js/runtime-main.ce667f02.js",
+    "runtime-main.js.map": "/react-management/static/js/runtime-main.ce667f02.js.map",
+    "static/js/2.b032ad7d.chunk.js": "/react-management/static/js/2.b032ad7d.chunk.js",
+    "static/js/2.b032ad7d.chunk.js.map": "/react-management/static/js/2.b032ad7d.chunk.js.map",
+    "index.html": "/react-management/index.html",
+    "precache-manifest.58fc0ebbf68b3f251fbd295d89fe0483.js": "/react-management/precache-manifest.58fc0ebbf68b3f251fbd295d89fe0483.js",
+    "service-worker.js": "/react-management/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-management/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b032ad7d.chunk.js.LICENSE.txt": "/react-management/static/js/2.b032ad7d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-management/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d294a1d6.js",
+    "static/js/runtime-main.ce667f02.js",
     "static/js/2.b032ad7d.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6c7b2a2c.chunk.js"
+    "static/js/main.083118af.chunk.js"
   ]
 }
